@@ -55,3 +55,4 @@ CONCLUSIONS
 * As observed above we notice that the distribution of total fatal, total minor, total serious injuries and total uninjured are skewed. This means that the distribution of data is not normally distributed.
 * The aircrafts Cessna, Piper, Boeing have the highest Total fatal injuries respectively.
 * Aircarfts with the following engine types have the highest total fatal injuries: Reciprocating, Turbofan and turbo prop engines have the highest total fatal injuries while also having the highest number of minor injuries both in descending order.# Hiuhu_Phase_1_project
+# Hiuhu_Phase_1_project
